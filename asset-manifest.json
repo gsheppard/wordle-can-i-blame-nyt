@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/wordle-can-i-blame-nyt/static/js/main.a21c9707.js",
+    "main.js": "/wordle-can-i-blame-nyt/static/js/main.27a93767.js",
     "index.html": "/wordle-can-i-blame-nyt/index.html",
-    "main.a21c9707.js.map": "/wordle-can-i-blame-nyt/static/js/main.a21c9707.js.map"
+    "main.27a93767.js.map": "/wordle-can-i-blame-nyt/static/js/main.27a93767.js.map"
   },
   "entrypoints": [
-    "static/js/main.a21c9707.js"
+    "static/js/main.27a93767.js"
   ]
 }
