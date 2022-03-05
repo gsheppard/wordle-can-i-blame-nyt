@@ -30,7 +30,7 @@ function App() {
   return (
     <Container maxWidth="md" sx={{ height: '100vh', display: 'flex', flexGrow: 'column', flexDirection: 'column' }}>
       <Box>
-        <Typography variant="h1" sx={{ backgroundColor: 'red', fontSize: { xs: 36, md: 64 }, my: { xs: 2, md: 4 } }}>
+        <Typography variant="h1" sx={{ fontSize: { xs: 36, md: 64 }, my: { xs: 2, md: 4 } }}>
           Can I Blame NYT?
         </Typography>
         <Typography>
